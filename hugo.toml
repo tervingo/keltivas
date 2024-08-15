@@ -1,0 +1,4 @@
+baseURL = 'https://keltivai.com/'
+languageCode = 'en-us'
+title = 'Keltivai'
+theme = 'relearn'
