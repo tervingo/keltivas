@@ -1,4 +1,9 @@
-baseURL = 'https://keltivai.com/'
+baseURL = 'http://tervingo.com/keltivai'
 languageCode = 'en-us'
 title = 'Keltivai'
 theme = 'relearn'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
