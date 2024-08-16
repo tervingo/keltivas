@@ -1,11 +1,8 @@
 +++
-title = 'Cymraeg'
+title = 'Cymraeg (galés): Y Tywysog Bach'
 date = 2024-08-15T20:07:49+02:00
-draft = true
+draft = false
 +++
-
-Y Tywysog Bach
-===============
 
 {{< figure src="/images/cymraeg.jpg" >}}
 

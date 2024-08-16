@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Keltivai</title>
-    <link>http://localhost:1313/index.html</link>
+    <link>https://keltivai.com/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Aug 2024 20:42:41 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://keltivai.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Brezhoneg</title>
-      <link>http://localhost:1313/ar-prins-bihan/index.html</link>
+      <title>Brezhoneg (bretón): Ar Priñs Bihan</title>
+      <link>https://keltivai.com/ar-prins-bihan/index.html</link>
       <pubDate>Thu, 15 Aug 2024 20:42:41 +0200</pubDate>
-      <guid>http://localhost:1313/ar-prins-bihan/index.html</guid>
-      <description>Ar Priñs Bihan Setu, evidon, bravañ ha tristañ gweledva ar bed. An hevelep gweledva eo ha hini ar bejenn a-raok, met e dreset ’m eus ur wech c’hoazh evit ez iskouez deoc’h ervat. Amañ eo en deus ar priñs bihan en em ziskouezet war an douar hag ez eo steuziet. Sellit mat ouzh ar gweledva-se, evit bezañ sur d’e anavezout, mar beajit un deiz en Afrika, er gouelec’h. Ha, mar c’hoarvez ganeoc’h tremen dre aze, me ho ped, kemerit hoc’h amzer, gortozit un tammig dres dindan ar steredenn!</description>
+      <guid>https://keltivai.com/ar-prins-bihan/index.html</guid>
+      <description>Setu, evidon, bravañ ha tristañ gweledva ar bed. An hevelep gweledva eo ha hini ar bejenn a-raok, met e dreset ’m eus ur wech c’hoazh evit ez iskouez deoc’h ervat. Amañ eo en deus ar priñs bihan en em ziskouezet war an douar hag ez eo steuziet. Sellit mat ouzh ar gweledva-se, evit bezañ sur d’e anavezout, mar beajit un deiz en Afrika, er gouelec’h. Ha, mar c’hoarvez ganeoc’h tremen dre aze, me ho ped, kemerit hoc’h amzer, gortozit un tammig dres dindan ar steredenn!</description>
     </item>
     <item>
-      <title>Cymraeg</title>
-      <link>http://localhost:1313/y-tywysog-bach/index.html</link>
+      <title>Cymraeg (galés): Y Tywysog Bach</title>
+      <link>https://keltivai.com/y-tywysog-bach/index.html</link>
       <pubDate>Thu, 15 Aug 2024 20:07:49 +0200</pubDate>
-      <guid>http://localhost:1313/y-tywysog-bach/index.html</guid>
-      <description>Y Tywysog Bach Dyma’r olygfa harddaf a’r dristaf yn y byd i mi. Yr un olygfa yw hi â‘r un ar y dudalen flaenorol, ond rwy i wedi ei thynnu eilwaith er mwyn i chi gael ei gweld hi’n iawn. Yma yr ymddangosodd y tywysog bach ar y Ddaear, ac yn ddiweddarach oddi yma y diflannodd. Edrychwch yn ofalus ar yr olygfa hon er mwyn bod yn siw o’i hadnabod, os byddwch chi ryw ddiwrnod yn teithio yn yr anialwch yn Affrica.</description>
+      <guid>https://keltivai.com/y-tywysog-bach/index.html</guid>
+      <description>Dyma’r olygfa harddaf a’r dristaf yn y byd i mi. Yr un olygfa yw hi â‘r un ar y dudalen flaenorol, ond rwy i wedi ei thynnu eilwaith er mwyn i chi gael ei gweld hi’n iawn. Yma yr ymddangosodd y tywysog bach ar y Ddaear, ac yn ddiweddarach oddi yma y diflannodd. Edrychwch yn ofalus ar yr olygfa hon er mwyn bod yn siw o’i hadnabod, os byddwch chi ryw ddiwrnod yn teithio yn yr anialwch yn Affrica.</description>
     </item>
   </channel>
 </rss>

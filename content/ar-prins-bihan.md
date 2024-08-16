@@ -1,11 +1,9 @@
 +++
-title = 'Brezhoneg'
+title = 'Brezhoneg (bretón): Ar Priñs Bihan'
 date = 2024-08-15T20:42:41+02:00
-draft = true
+draft = false
 +++
 
-Ar Priñs Bihan
-===============
 
 {{< figure src="/images/brezhoneg.jpg" >}}
 
