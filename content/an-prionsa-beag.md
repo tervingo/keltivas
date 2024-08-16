@@ -1,7 +1,7 @@
 +++
 title = 'An Prionsa Beag (irlandés)'
 date = 2024-08-16T19:54:23+02:00
-draft = true
+draft = false
 +++
 
 <br/>

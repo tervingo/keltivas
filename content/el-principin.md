@@ -1,7 +1,7 @@
 +++
 title = 'El Principin (asturiano)'
 date = 2024-08-16T20:08:06+02:00
-draft = true
+draft = false
 +++
 
 <br/>

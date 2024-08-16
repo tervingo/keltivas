@@ -1,7 +1,7 @@
 +++
 title = 'El Petit Princep (catalán)'
 date = 2024-08-16T20:15:55+02:00
-draft = true
+draft = false
 +++
 
 <br/>
