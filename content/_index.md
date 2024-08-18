@@ -6,4 +6,4 @@ draft = false
 
 
 
-{{< figure src="/images/keltivas.png" >}}
+{{< figure src="images/keltivas.png" >}}
