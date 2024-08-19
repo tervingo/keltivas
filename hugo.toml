@@ -7,3 +7,9 @@ theme = 'relearn'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[menu]
+  [[menu.main]]
+    name = "Al-amyr aS-Sagyr (árabe)"
+    url = "keltivai/al-amyr-as-sagyr"
+    weight = 1
