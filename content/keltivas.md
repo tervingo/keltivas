@@ -2,10 +2,11 @@
 title = 'Keltivas (ilvés)'
 date = 2024-08-19T12:59:32+02:00
 draft = false
+
 +++
 
 <br/>
-{{< img src="images/Keltivas.png" alt="Ilven" width="300px" height="450px" >}}
+{{< img src="images/keltivas.jpg" alt="Ilven" >}}
 
 --------------------------------------
 

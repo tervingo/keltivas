@@ -1,0 +1,6 @@
+{{- $page := .page }}
+{{- $pages := $page.Pages }}
+{{- if $page.Sections }}
+  {{- $pages = ($page.Pages | union $page.Sections) }}
+{{- end }}
+{{- return $pages.ByTitle }}

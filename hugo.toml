@@ -1,6 +1,6 @@
-baseURL = 'http://tervingo.com/keltivai'
+baseURL = 'http://tervingo.com/Keltivas'
 languageCode = 'en-us'
-title = 'Keltivai'
+title = 'Keltivas'
 theme = 'relearn'
 
 [markup]
@@ -8,8 +8,3 @@ theme = 'relearn'
     [markup.goldmark.renderer]
       unsafe = true
 
-[menu]
-  [[menu.main]]
-    name = "Al-amyr aS-Sagyr (árabe)"
-    url = "keltivai/al-amyr-as-sagyr"
-    weight = 1
