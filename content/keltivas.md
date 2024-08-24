@@ -1,5 +1,5 @@
 +++
-title = 'Keltivas (ilvés)'
+title = 'Keltivas (ilvanés)'
 date = 2024-08-19T12:59:32+02:00
 draft = false
 

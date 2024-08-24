@@ -6,4 +6,10 @@ draft = false
 
 <br/>
 
-{{< figure src="images/home.jpg" width="500px" height="600px" >}}
+{{< figure src="images/home.jpg" width="400px" height="450px" >}}
+
+<div style="display: flex; justify-content: center; align-items: center;">
+    <h4>
+        {{< page-count >}}
+    </h4>
+</div>
