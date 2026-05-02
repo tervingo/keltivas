@@ -1,7 +1,11 @@
-baseURL = 'http://tervingo.com/Keltivas'
-languageCode = 'en-us'
+baseURL = 'https://tervingo.com/keltivas/'
+locale = 'en-us'
 title = 'Keltivas'
 theme = 'relearn'
+
+[params.author]
+  name = 'Keltivas'
+  email = 'info@tervingo.com'
 
 [markup]
   [markup.goldmark]
